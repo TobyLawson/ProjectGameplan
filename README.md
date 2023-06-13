@@ -10,5 +10,3 @@ A prototype productivity and habit tracker with gamified elements to motivate an
 ![GameplanScreen4](https://github.com/TobyLawson/ProjectGameplan/assets/79937854/a6278d8b-3b4a-46d3-868e-1bd9748ea499)
 
 ![GameplanScreen5](https://github.com/TobyLawson/ProjectGameplan/assets/79937854/0e345a02-383c-43f7-a706-ae49c8fce64e)
-
-![GameplanScreenshot](https://user-images.githubusercontent.com/79937854/234295004-770a02ae-bf39-4187-9933-e0260c598a05.png)
